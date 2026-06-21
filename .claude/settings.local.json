@@ -11,5 +11,5 @@
       "Bash(rm -rf *)"
     ]
   },
-  "autoCompactThreshold": 80
+  "autoCompactThreshold": 90
 }
